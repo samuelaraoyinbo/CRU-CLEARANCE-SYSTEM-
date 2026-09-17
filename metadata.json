@@ -1,0 +1,6 @@
+{
+  "name": "Crawford University Clearance System",
+  "description": "Automated Clearance & Gate Validation System (CRU-CS) for Crawford University",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
